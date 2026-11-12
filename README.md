@@ -1,0 +1,1 @@
+# SOC-Home-Lab-Security-Monitoring-with-Wazuh
